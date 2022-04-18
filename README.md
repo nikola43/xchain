@@ -1,4 +1,4 @@
-# ICICB galaxy 
+# galaxy chain 
 
 EVM-compatible chain secured by the Lachesis consensus algorithm.
 
